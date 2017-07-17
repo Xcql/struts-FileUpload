@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="struts-FileUpload"
+  id="myeclipse.1500306028728"
+  context-root="/struts-FileUpload"
+  j2ee-spec="6.0"
+  archive="struts-FileUpload.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
